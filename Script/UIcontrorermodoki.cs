@@ -14,3 +14,6 @@ public class UIcontrorermodoki : MonoBehaviour
         
     }
 } //test
+
+
+// testtesttest
